@@ -1,0 +1,5 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/php:0-8",
+    "forwardPorts": [8000],
+    "extensions": ["felixfbecker.php-debug"]
+}
