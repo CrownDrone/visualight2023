@@ -11,7 +11,6 @@ $currentIndex = Url::to(['']);
 
 ?>
 
-<!-- //uwu? -->
 
 <style>
     @font-face {
